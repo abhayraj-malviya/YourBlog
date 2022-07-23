@@ -1,7 +1,7 @@
 # YourBlog
 It is a web application for building using Flask.
 
-![[profilepage.png]]
+![Image demo|700](https://github.com/abhayrajmalviya/YourBlog/blob/main/profilepage.png)
 
 
 
